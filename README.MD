@@ -1,7 +1,5 @@
 Versión: 1.0 (Inicial)
 
-Descripción:
-
 "Mi Aplicación de Backup" es una herramienta gráfica simple desarrollada en Python utilizando la biblioteca Tkinter para facilitar la creación de copias de seguridad de carpetas en sistemas Windows. Utiliza el comando xcopy de Windows para realizar la copia de archivos y directorios.
 
 Requisitos del Sistema:
