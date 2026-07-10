@@ -57,7 +57,7 @@ Fecha: 18/04/2025
 
 Si "El cattho Backup" te ha sido de utilidad y quieres apoyar mi trabajo, puedes invitarme a un café o hacer una donación aquí:
 
-[!["Buy Me A Coffee"](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/TU_USUARIO_DE_KOFI)
+[!["Buy Me A Coffee"](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/sebastiangiraldo)
 
 ---
 Desarrollado con ❤️ por Juan Sebastian Giraldo Varon.
